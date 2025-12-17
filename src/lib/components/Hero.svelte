@@ -2,7 +2,7 @@
   <div class="w-full md:w-1/2 flex flex-col justify-center pr-0 md:pr-12 space-y-8">
     <div class="max-w-md space-y-6 text-lg md:text-xl leading-snug font-medium">
       <p>
-        Cal Uncommon delivers institutional-grade alternative investments through convertible securities expertise and liquid alternatives innovation. With $46 billion in assets under management, we've spent nearly five decades making sophisticated investment strategies accessible.
+        Calamos delivers institutional-grade alternative investments through convertible securities expertise and liquid alternatives innovation. With $46 billion in assets under management, we've spent nearly five decades making sophisticated investment strategies accessible.
       </p>
       <p>
         We don't follow trends, we create them. As the third-largest liquid alternatives provider in the United States and the nation's largest manager of convertible securities, we bring risk-adjusted returns and disciplined execution to RIAs and their high-net-worth clients.

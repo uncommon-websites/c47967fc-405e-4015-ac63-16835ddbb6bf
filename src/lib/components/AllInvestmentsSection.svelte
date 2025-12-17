@@ -87,7 +87,7 @@
 
       <div class="mt-12 pt-8 border-t border-gray-300">
         <p class="text-sm text-gray-600 leading-relaxed max-w-3xl">
-          <span class="font-bold">For Financial Advisors:</span> Each solution is designed with your practice in mind, offering institutional-grade strategies that help differentiate your services and meet the sophisticated needs of high-net-worth clients. Contact us to learn how Cal Uncommon can enhance your alternative investment offerings.
+          <span class="font-bold">For Financial Advisors:</span> Each solution is designed with your practice in mind, offering institutional-grade strategies that help differentiate your services and meet the sophisticated needs of high-net-worth clients. Contact us to learn how Calamos can enhance your alternative investment offerings.
         </p>
       </div>
     </div>

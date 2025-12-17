@@ -4,7 +4,7 @@
       name: "John P. Calamos Sr.",
       role: "Founder & Global CIO",
       description: "Pioneered convertible securities management in 1977. Four decades transforming a boutique firm into a $46B global asset manager.",
-      image: "/generated/image-confident-senior-executive-in-his-70s-at-1766009994896-0.webp"
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-TtQ8Umygtzbo-ARY7tlADY2aE5yM3cOiQQ&s"
     }
   ];
 </script>

@@ -56,7 +56,7 @@
       <div class="border-t border-gray-300 pt-8">
         <h3 class="text-lg font-bold mb-4">For Financial Advisors</h3>
         <p class="text-sm leading-relaxed text-gray-700 max-w-2xl">
-          Connect with our dedicated RIA support team to learn how Cal Uncommon's liquid alternatives and convertible securities strategies can help you serve high-net-worth clients with institutional-grade sophistication.
+          Connect with our dedicated RIA support team to learn how Calamos's liquid alternatives and convertible securities strategies can help you serve high-net-worth clients with institutional-grade sophistication.
         </p>
       </div>
 

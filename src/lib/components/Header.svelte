@@ -4,7 +4,7 @@
 
 <header class="fixed top-0 left-0 w-full px-6 py-6 md:px-12 md:py-8 flex justify-between items-start z-50 pointer-events-none">
   <div class="font-bold text-2xl tracking-tight flex items-center pointer-events-auto">
-    Cal Uncommon
+    Calamos
   </div>
   
   <nav class="text-sm font-medium text-right leading-tight pointer-events-auto">

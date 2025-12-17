@@ -10,6 +10,6 @@
   </div>
   
   <div class="font-bold tracking-tight text-base leading-none">
-    Cal Uncommon
+    Calamos
   </div>
 </footer>
