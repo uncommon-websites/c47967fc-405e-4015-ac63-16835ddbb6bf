@@ -14,15 +14,16 @@
 	--color-gray-900: #171717;
 	--color-gray-950: #0a0a0a;
 
-    --color-matrix-bg: #f5f5f5;
-    --color-matrix-blue: #0033a0;
+    --color-calamos-bg: #f5f5f5;
+    --color-calamos-primary: #0033a0;
+    --color-calamos-accent: #1a4d8f;
 
 	--font-body: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	--font-display: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 body {
-    background-color: var(--color-matrix-bg);
+    background-color: var(--color-calamos-bg);
     color: var(--color-gray-900);
     font-family: var(--font-body);
     -webkit-font-smoothing: antialiased;
