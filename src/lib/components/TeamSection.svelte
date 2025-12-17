@@ -29,7 +29,7 @@
               <div class="flex flex-col md:flex-row gap-8">
                 <div class="w-full md:w-1/3">
                   <div class="aspect-[4/5] bg-gray-200 overflow-hidden">
-                    <img src={member.image} alt={member.name} class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500" />
+                    <img src={member.image} alt={member.name} class="w-full h-full object-cover object-top grayscale group-hover:grayscale-0 transition-all duration-500" />
                   </div>
                 </div>
                 <div class="w-full md:w-2/3 flex flex-col justify-center">
